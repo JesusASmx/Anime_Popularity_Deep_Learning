@@ -2,4 +2,4 @@
 
 # Anime Popularity Prediction with Deep Learning Techniques.
 
-For now, the only released code is the scrapper.
+For now, the only released code is the scrapper (inside the folder **Corpora**).
