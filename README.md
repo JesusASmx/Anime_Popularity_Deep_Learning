@@ -1,4 +1,4 @@
-###### _DISCLAIMER: Although this project is already finished, we will upload the rest of the code after submitting the paper._
+###### _DISCLAIMER: Although this project is already finished, we will upload the rest of the code after submitting the paper into a journal._
 
 # Anime Popularity Prediction with Deep Learning Techniques.
 
